@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Odin projection markers (skills are source here, not a projection)
+.odin-generated
+
+# Graph caches / runtime that should never ship with skills
+graphify-out/
+**/graphify-out/
+.cache/
+tmp/
+temp/
+*.log
+
+# Secrets — should never appear in a skills repo, belt-and-suspenders
+.env
+.env.*
+*.pem
+*.key
+*.p12

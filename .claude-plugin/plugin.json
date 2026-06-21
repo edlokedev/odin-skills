@@ -1,0 +1,9 @@
+{
+  "name": "odin-skills",
+  "description": "Cross-platform agent skill bundle: design, code review, planning, TDD, plan-grilling, research, and workspace skills. Skills live in skills/ and are auto-discovered by Claude Code.",
+  "version": "0.1.0",
+  "author": {
+    "name": "edlokedev"
+  },
+  "homepage": "https://github.com/edlokedev/odin-skills"
+}

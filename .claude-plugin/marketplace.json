@@ -1,0 +1,17 @@
+{
+  "name": "odin-skills",
+  "owner": {
+    "name": "edlokedev"
+  },
+  "metadata": {
+    "description": "Cross-platform agent skill bundle from the Odin workspace.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "odin-skills",
+      "source": "./",
+      "description": "57 reusable agent skills (design, review, planning, TDD, grilling, research, and more)."
+    }
+  ]
+}

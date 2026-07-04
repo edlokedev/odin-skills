@@ -22,6 +22,7 @@ Use the vendored guides as progressive-disclosure material:
 - Architecture-heavy change: read `awesome-skills/reference/architecture-review-guide.md`.
 - Known bug-prone area: read `awesome-skills/reference/common-bugs-checklist.md`.
 - Specific stack: read the matching guide in `awesome-skills/reference/` such as `react.md`, `typescript.md`, `python.md`, `django.md`, `fastapi.md`, `go.md`, `rust.md`, `java.md`, `csharp.md`, `kotlin.md`, `swift.md`, `nestjs.md`, `svelte.md`, `vue.md`, `angular.md`, `php.md`, `c.md`, `cpp.md`, `css-less-sass.md`, or `qt.md`.
+- Frontend change (components, hooks, state, forms, UI logic): also read the `frontend-fundamentals` skill (`skills/frontend-fundamentals/SKILL.md`) and review against its four criteria — readability, predictability, cohesion, coupling.
 
 Do not load every guide. Pick the smallest set that matches the changed code.
 

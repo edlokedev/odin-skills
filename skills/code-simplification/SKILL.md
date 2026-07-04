@@ -9,6 +9,8 @@ description: Simplifies code for clarity while preserving exact behavior. Use af
 
 `/code-simplify` and `/code-simplification` map to this skill. Do not run it mechanically after every generated change; run it when verification is green and there is a concrete simplification target.
 
+Frontend code (components, hooks, state, forms, UI logic): also read the `frontend-fundamentals` skill (`skills/frontend-fundamentals/SKILL.md`) and simplify toward its four criteria — readability, predictability, cohesion, coupling — especially its duplication-over-wrong-abstraction guidance.
+
 > Inspired by the [Claude Code Simplifier plugin](https://github.com/anthropics/claude-plugins-official/blob/main/plugins/code-simplifier/agents/code-simplifier.md). Adapted here as a model-agnostic, process-driven skill for any AI coding agent.
 
 ## Overview
